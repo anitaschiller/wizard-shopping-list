@@ -1,0 +1,15 @@
+input {
+  padding: 1rem, 0;
+}
+
+.form {
+  margin: 4rem, 0;
+}
+
+textarea {
+  margin-top: 0.5rem;
+}
+
+.label {
+  color: purple;
+}
